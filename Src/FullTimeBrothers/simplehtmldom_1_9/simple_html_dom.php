@@ -1,6 +1,6 @@
 <?php
 
-namespace simplehtmldom_1_5;
+namespace simplehtmldom_1_9;
 
 /**
  * Actualizado a la versión 1.9
