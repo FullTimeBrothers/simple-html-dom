@@ -1,20 +1,15 @@
 {
-    "name": "FullTimeBrothers/simple-html-dom",
+    "name": "fulltimebrothers/simple-html-dom",
     "type": "library",
-    "description": "Composer adaptation of: A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way! Require PHP 5+. Supports invalid HTML. Find tags on an HTML page with selectors just like jQuery. Extract contents from HTML in a single line.",    
+    "description": "HTML DOM Parser en Laravel",    
     "keywords": ["html", "dom", "parser"],
-    "homepage": "https://github.com/sunra/php-simple-html-dom-parser",
+    "homepage": "https://fulltimebrothers.com",
     "license": "MIT",
     "authors": [
         {   
-            "name": "S.C. Chen",
-            "homepage": "http://sourceforge.net/projects/simplehtmldom/"
-        },
-        {
-            "name": "Sunra",
-            "email": "sunra@yandex.ru",
-            "homepage": "https://github.com/sunra"
-        }   
+            "name": "Rafael",
+            "homepage": "https://fulltimebrothers.com"
+        }  
     ],
     "require": {
         "php": ">=5.3.2",
